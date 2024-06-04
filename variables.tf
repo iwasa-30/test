@@ -12,7 +12,7 @@ variable "mai" {
   default = "iwasa"
 }
 
-# サブネットsuffix
+# サブネット
 variable "subnet_suffix" {
   type = string
   default = "10.0"
